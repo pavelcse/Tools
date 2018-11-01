@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"Comment-Snippets",
+		"Emmet",
+		"Indentation Size Setting",
+		"IndentationNavigation",
+		"Laravel 5 Artisan",
+		"Laravel 5 Snippets",
+		"Laravel Blade AutoComplete",
+		"Laravel Blade Highlighter",
+		"Package Control",
+		"PHP Companion",
+		"SideBarEnhancements",
+		"Terminal",
+		"Vue Syntax Highlight",
+		"VueFormatter",
+		"Vuejs Complete Package",
+		"Vuejs Snippets",
+		"Vuejs Snippets Airbnb"
+	]
+}

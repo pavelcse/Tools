@@ -1,0 +1,25 @@
+1. First in xampp server, goto: Xampp\apache\conf\extra. Then open httpd-vhosts.conf file. Now add this in last.
+
+<VirtualHost *:80>
+    DocumentRoot "H:/Start_PHP/htdocs"
+    ServerName localhost
+</VirtualHost>
+
+<VirtualHost *:80>
+    DocumentRoot "H:/Start_PHP/htdocs/Laravel_Project/my_blog/public"
+    ServerName pavel.myblog
+</VirtualHost>
+
+<VirtualHost *:80>
+    DocumentRoot "H:/Start_PHP/htdocs/Laravel_Project/ecommerce/public"
+    ServerName pavel.ecommerce
+</VirtualHost>
+
+
+2. Now in windows Host file, goto: C:\Windows\System32\drivers\etc. Then open hosts file with Administration Permission. Now add this in last.
+
+
+127.0.0.1       localhost
+
+127.0.0.1	pavel.myblog
+127.0.0.1	pavel.ecommerce

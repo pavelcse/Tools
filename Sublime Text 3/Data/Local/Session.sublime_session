@@ -1,0 +1,1477 @@
+{
+	"folder_history":
+	[
+		"/F/JavaScript/VueJS Complete Guide - Udemy/04 First Course Project - The Monster Slayer/Setup/css",
+		"/H/Start_PHP/htdocs/Laravel/profile",
+		"/H/Start_PHP/htdocs/VueJS/VueMaster",
+		"/H/START PHP/htdocs/Laravel/ecommerce",
+		"/H/START PHP/htdocs/Laravel/ecommerce/config",
+		"/H/START PHP/htdocs/Laravel/eForum",
+		"/H/START PHP/htdocs/Laravel/eShop",
+		"/H/START PHP/htdocs/Laravel_Project/laravel_cms",
+		"/F/PHP MVC Framework-Codeignite/03 Project  1  Login Application/attached_files/021 Downloading Assets/assets/fonts",
+		"/F/PHP MVC Framework-Codeignite/03 Project  1  Login Application/attached_files/021 Downloading Assets/assets/js",
+		"/F/PHP MVC Framework-Codeignite/03 Project  1  Login Application/attached_files/021 Downloading Assets/assets/css",
+		"/H/START PHP/htdocs/CI",
+		"/H/START PHP/htdocs/Laravel_Project/ecommerce",
+		"/H/START PHP/htdocs/Laravel_Project/phonebook",
+		"/H/START PHP/htdocs/Laravel",
+		"/H/START PHP/htdocs/Laravel_Project/eapi",
+		"/H/START PHP/htdocs/Laravel_Project/blog_cms",
+		"/H/START PHP/htdocs/Laravel_Project/eForm",
+		"/H/START PHP/htdocs/blog_cms",
+		"/C/Users/PAVEL PARVEZ/Desktop/eShop",
+		"/H/START PHP/htdocs/eShop",
+		"/H/START PHP/htdocs/elaravel",
+		"/H/START PHP/htdocs/todos",
+		"/H/START PHP/htdocs/shop/e-commerce",
+		"/H/START PHP/htdocs/Ajax",
+		"/H/START PHP/htdocs/Laravel_Project/elaravel",
+		"/H/START PHP/htdocs/php-ajax-jquery",
+		"/H/START PHP/htdocs/exam1",
+		"/H/START PHP/htdocs/Exam",
+		"/H/START PHP/htdocs/box",
+		"/H/START PHP/htdocs/Blog",
+		"/C/Users/PAVEL PARVEZ/Desktop/UP_Blog",
+		"/H/START PHP/htdocs/Slider_Demo1",
+		"/H/START PHP/htdocs/Slider_Demo",
+		"/C/Users/PAVEL PARVEZ/Desktop/create-bootstrap-carousel-slider-with-thumbnails-using-php-mysql",
+		"/H/START PHP/htdocs/shop",
+		"/H/START PHP/htdocs/Shout_Box",
+		"/H/Start PHP/htdocs/Basic OOP",
+		"/H/Start PHP/htdocs/Basic PHP",
+		"/H/Start PHP/htdocs/Project_1",
+		"/C/xampp/htdocs/blog",
+		"/C/xampp/htdocs/shop",
+		"/C/Users/PAVEL/Desktop/profile",
+		"/C/xampp/htdocs/oop/CRUD",
+		"/C/xampp/htdocs/oop"
+	],
+	"last_version": 3180,
+	"last_window_id": 27,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 535.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ba",
+						"backgroundColor"
+					],
+					[
+						"in",
+						"inline-block\tdisplay"
+					],
+					[
+						"User",
+						"User_model"
+					],
+					[
+						"for",
+						"for\tfor …"
+					],
+					[
+						"Product",
+						"ProductResource"
+					],
+					[
+						"func",
+						"override_function"
+					],
+					[
+						"produ",
+						"product_id"
+					],
+					[
+						"padding",
+						"padding\tproperty"
+					],
+					[
+						"tbl_",
+						"tbl_shipping"
+					],
+					[
+						"pay",
+						"paypal"
+					],
+					[
+						"margin",
+						"margin\tproperty"
+					],
+					[
+						"font",
+						"font-size\tproperty"
+					],
+					[
+						"Requ",
+						"Request"
+					],
+					[
+						"btn",
+						"btn-primary"
+					],
+					[
+						"slider",
+						"slider_title"
+					],
+					[
+						"tbl",
+						"tbl_category"
+					],
+					[
+						"image",
+						"image_url"
+					],
+					[
+						"image_",
+						"image_full_name"
+					],
+					[
+						"upload",
+						"upload_path"
+					],
+					[
+						"h",
+						"href"
+					],
+					[
+						"Re",
+						"Redirect"
+					],
+					[
+						"admin",
+						"admin_name"
+					],
+					[
+						"text",
+						"text-align\tproperty"
+					],
+					[
+						"loc",
+						"location"
+					],
+					[
+						"list",
+						"list-style\tproperty"
+					],
+					[
+						"mar",
+						"margin\tproperty"
+					],
+					[
+						"min-",
+						"min-height\tproperty"
+					],
+					[
+						"session_un",
+						"session_unset"
+					],
+					[
+						"arg",
+						"arg_ary"
+					],
+					[
+						"pro",
+						"property"
+					],
+					[
+						"__",
+						"__set"
+					],
+					[
+						"val",
+						"valueTwo"
+					],
+					[
+						"value",
+						"valueOne"
+					],
+					[
+						"person",
+						"personAge"
+					],
+					[
+						"max",
+						"max_int"
+					],
+					[
+						"set",
+						"setcookie"
+					],
+					[
+						"read",
+						"readfile"
+					],
+					[
+						"date_def",
+						"date_default_timezone_set"
+					],
+					[
+						"filter_",
+						"filter_var"
+					],
+					[
+						"el",
+						"elseif\telseif …"
+					],
+					[
+						"array",
+						"array"
+					],
+					[
+						"arr",
+						"array\t$… = array (…)"
+					],
+					[
+						"str_re",
+						"str_replace"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"paddi",
+						"padding-right"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"min",
+						"min-height"
+					],
+					[
+						"i",
+						"initial"
+					],
+					[
+						"f",
+						"float"
+					],
+					[
+						"count",
+						"count1"
+					],
+					[
+						"mysql_f",
+						"mysql_fetch_assoc"
+					],
+					[
+						"mysql_s",
+						"mysql_select_db"
+					],
+					[
+						"if",
+						"if\tif …"
+					],
+					[
+						"cur",
+						"cursor"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"pa",
+						"placeholder\tAttr"
+					],
+					[
+						"S",
+						"Successfully"
+					],
+					[
+						"p",
+						"php\t<?php … ?>"
+					],
+					[
+						"base",
+						"base64_encode"
+					],
+					[
+						"bind_",
+						"bind_result"
+					],
+					[
+						"exe",
+						"execute"
+					],
+					[
+						"pre",
+						"prepare"
+					],
+					[
+						"ex",
+						"exit"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"file_",
+						"file_get_contents"
+					],
+					[
+						"class",
+						"class\tclass …"
+					],
+					[
+						"met",
+						"method_exists"
+					],
+					[
+						"sta",
+						"static"
+					],
+					[
+						"a",
+						"action\tAttr"
+					],
+					[
+						"fo",
+						"form\tTag"
+					],
+					[
+						"els",
+						"else"
+					],
+					[
+						"_",
+						"_FILES"
+					],
+					[
+						"me",
+						"meta\tTag"
+					],
+					[
+						"function",
+						"create_function"
+					],
+					[
+						"re",
+						"required\tAttr"
+					],
+					[
+						"u",
+						"url()"
+					],
+					[
+						"pad",
+						"padding-bottom"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"find ",
+						"PHPCompanion:Find Use"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"packagecontroll",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"emmet",
+						"Set Syntax: Emmet"
+					],
+					[
+						"Snippet",
+						"Snippet: Comment - Full section comment"
+					],
+					[
+						"Snippet: ",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 512.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+					"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'",
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/F/JavaScript/VueJS Complete Guide - Udemy/04 First Course Project - The Monster Slayer/Setup/index.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 3/09-Different_use_v-for.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 3/08-Looping_throw_number.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 3/07-Looping_throw_object.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 3/06-Alternative_v-for.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 3/05-Getting_current_index.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 3/04-Rendering_list_with_v-for.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 3/03-v-show.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 3/01-Conditional_rendering_v-if.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 3/02-Alternative_v-if.html",
+				"/F/JavaScript/VueJS Complete Guide - Udemy/03 Using Conditionals and Rendering Lists/035 v-else-if in Vue.js 2.1.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/19-Dynamic_style_with_css_using_name.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/20-Dynamic_style_without_css_classes.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/18-Dynamic_style_with_css_using_object.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/17-Dynamic_styling_with_css.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/16-Alternative_computed_properties_watching_change.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/15-Reacting_change_with_computed_properties.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/14-Using_two_way_binding.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/13-JavaScript_code_in_templete.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/12-Listining_to_keyboard_events.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/11-Modify_event_with_event_modifiers.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/10-Passing_your_own_arguments_with_events.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/9-Getting_Event_Data_From_Event_object.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/8-Listining_to_Events.html",
+				"/H/Start_PHP/htdocs/Laravel_Project/profile/routes/web.php",
+				"/H/Start_PHP/htdocs/Laravel/profile/app/Http/Controllers/VisitorController.php",
+				"/H/Start_PHP/htdocs/Laravel/profile/resources/views/welcome.blade.php",
+				"/H/Start_PHP/htdocs/Laravel/profile/routes/web.php",
+				"/H/Start_PHP/htdocs/Laravel/profile/index.php",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/7-Output_Row_HTML.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/6-Desable_Re-Rendering_with_v-once.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/5-Understanding_and_Using_Directives.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/4-Binding_to_Attributes.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/3-Access_Data_in_Vue_Instance.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/1-Understanding_VueJs.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/2-Syntax_Instance_Work_Togather.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/index.html",
+				"/H/START PHP/htdocs/Laravel/todos/database/migrations/2018_04_04_072759_create_todos_table.php",
+				"/H/START PHP/htdocs/Laravel/eForum/resources/views/discussions/edit.blade.php",
+				"/H/START PHP/htdocs/Laravel/eForum/resources/views/discuss.blade.php",
+				"/H/START PHP/htdocs/Laravel/eForum/.env",
+				"/H/START PHP/htdocs/Laravel/eForum/database/seeds/UsersTableSeeder.php",
+				"/H/START PHP/htdocs/Laravel/eShop/routes/web.php",
+				"/H/START PHP/htdocs/Laravel/eShop/app/Http/Controllers/AdminController.php",
+				"/H/START PHP/htdocs/CI/application/views/user_view.php",
+				"/H/START PHP/htdocs/CI/application/controllers/Users.php",
+				"/H/START PHP/htdocs/CI/application/models/User_model.php",
+				"/H/START PHP/htdocs/exc.php",
+				"/H/START PHP/htdocs/CI/application/config/database.php",
+				"/H/START PHP/htdocs/CI/application/config/autoload.php",
+				"/H/START PHP/htdocs/Sublime Text 3/Data/Packages/User/Emmet.sublime-settings",
+				"/H/START PHP/htdocs/Sublime Text 3/Data/Packages/Emmet/Emmet.sublime-settings",
+				"/H/START PHP/htdocs/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/H/START PHP/htdocs/Sublime Text 3/Data/Packages/Emmet/Default (Windows).sublime-keymap",
+				"/H/START PHP/htdocs/CI/application/views/welcome_message.php",
+				"/H/START PHP/htdocs/CI/application/controllers/Welcome.php",
+				"/H/START PHP/htdocs/CI/application/views/home_view.php",
+				"/H/START PHP/htdocs/CI/application/controllers/Home.php",
+				"/H/START PHP/htdocs/Laravel_Project/phonebook/resources/assets/js/components/Myheader.vue",
+				"/H/START PHP/htdocs/Laravel_Project/phonebook/routes/web.php",
+				"/H/START PHP/htdocs/Laravel_Project/phonebook/resources/assets/js/components/Myfooter.vue",
+				"/H/START PHP/htdocs/Laravel_Project/phonebook/resources/views/phonebook.blade.php",
+				"/H/START PHP/htdocs/Laravel_Project/phonebook/resources/assets/js/bootstrap.js",
+				"/H/START PHP/htdocs/Laravel_Project/phonebook/.gitignore",
+				"/H/START PHP/htdocs/Laravel_Project/phonebook/resources/assets/sass/app.scss",
+				"/H/START PHP/htdocs/Laravel_Project/phonebook/config/app.php",
+				"/C/Users/PAVEL PARVEZ/Desktop/up/ecommerce/.env",
+				"/C/Users/PAVEL PARVEZ/Desktop/up/eForum/.env",
+				"/H/START PHP/htdocs/Laravel/ecommerce/resources/views/layouts/master.blade.php",
+				"/H/START PHP/htdocs/Laravel/ecommerce/app/Http/Kernel.php",
+				"/H/START PHP/htdocs/Laravel/ecommerce/app/Http/Middleware/Admin.php",
+				"/H/START PHP/htdocs/Laravel/ecommerce/app/User.php",
+				"/H/START PHP/htdocs/Laravel/ecommerce/app/Http/Controllers/ProductsController.php",
+				"/H/START PHP/htdocs/Laravel/ecommerce/app/Http/Controllers/HomeController.php",
+				"/H/START PHP/htdocs/Laravel/ecommerce/routes/web.php",
+				"/H/START PHP/htdocs/Laravel/ecommerce/index.php",
+				"/H/START PHP/htdocs/Laravel/eForum/resources/views/layouts/app.blade.php",
+				"/H/START PHP/htdocs/Laravel/eForum/index.php",
+				"/H/START PHP/htdocs/Laravel/eForum/database/migrations/2014_10_12_000000_create_users_table.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/app/Http/Requests/ReviewRequest.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/app/Model/Review.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/app/Http/Resources/Review/ReviewResource.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/app/Http/Controllers/ProductController.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/app/Exceptions/ExceptionTrait.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/app/Exceptions/ProductNotBelongsToUser.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/app/Exceptions/Handler.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/database/seeds/DatabaseSeeder.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/database/migrations/2018_06_05_193911_create_products_table.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/database/factories/ModelProductFactory.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/app/Http/Requests/ProductRequest.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/app/Model/Product.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/vendor/laravel/framework/src/Illuminate/Database/Eloquent/ModelNotFoundException.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/vendor/symfony/http-foundation/Response.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/config/auth.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/app/User.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/routes/api.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/app/Providers/AuthServiceProvider.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/app/Http/Resources/Product/ProductCollection.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/app/Http/Resources/Product/ProductResource.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/database/migrations/2018_06_05_194005_create_reviews_table.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/database/factories/ModelReviewFactory.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/app/Providers/AppServiceProvider.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/app/Http/Controllers/ReviewController.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/.env",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/.gitignore",
+				"/H/START PHP/htdocs/Laravel_Project/RESTFULAPI/Homestead.yaml",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/H/START PHP/htdocs/Laravel_Project/todos/gulpfile.js",
+				"/H/START PHP/htdocs/blog_cms/app/Profile.php",
+				"/H/START PHP/htdocs/blog_cms/app/User.php",
+				"/H/START PHP/htdocs/blog_cms/database/seeds/UsersTableSeeder.php",
+				"/H/START PHP/htdocs/blog_cms/database/seeds/SettingsTableSeeder.php",
+				"/H/START PHP/htdocs/blog_cms/database/seeds/DatabaseSeeder.php",
+				"/H/START PHP/htdocs/Laravel_Project/blog_cms/resources/views/layouts/app.blade.php",
+				"/C/Users/PAVEL PARVEZ/Desktop/eShop/.env",
+				"/H/START PHP/htdocs/eShop/app/Http/Controllers/HomeController.php",
+				"/H/START PHP/htdocs/eShop/resources/views/pages/home_content.blade.php",
+				"/H/START PHP/htdocs/eShop/resources/views/layout.blade.php",
+				"/C/Users/PAVEL PARVEZ/Desktop/file.html",
+				"/H/START PHP/htdocs/eShop/bootstrap/app.php",
+				"/H/START PHP/htdocs/elaravel/bootstrap/app.php",
+				"/H/START PHP/htdocs/elaravel/index.php",
+				"/C/Users/PAVEL PARVEZ/Desktop/index.html",
+				"/H/START PHP/htdocs/todos/.env",
+				"/C/Users/PAVEL PARVEZ/Desktop/New folder/todos/.env",
+				"/C/Users/PAVEL PARVEZ/Desktop/New folder/blog_cms/.env",
+				"/H/START PHP/htdocs/blog_cms/routes/web.php"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"');\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": false,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 39.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ReviewResource",
+						"app\\Http\\Resources\\Review\\ReviewResource.php"
+					],
+					[
+						"NotFoundHttpException",
+						"vendor\\symfony\\http-kernel\\Exception\\NotFoundHttpException.php"
+					],
+					[
+						"ModelNotFoundException",
+						"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\ModelNotFoundException.php"
+					],
+					[
+						"",
+						"vendor\\symfony\\http-foundation\\Response.php"
+					],
+					[
+						"resp",
+						"vendor\\symfony\\http-foundation\\Response.php"
+					],
+					[
+						"response",
+						"vendor\\symfony\\http-foundation\\Response.php"
+					],
+					[
+						"respos",
+						"vendor\\symfony\\http-foundation\\Response.php"
+					],
+					[
+						"api.php",
+						"routes\\api.php"
+					],
+					[
+						"user",
+						"app\\User.php"
+					],
+					[
+						"auth",
+						"config\\auth.php"
+					],
+					[
+						"review",
+						"app\\Http\\Controllers\\ReviewController.php"
+					],
+					[
+						"AppServiceProvider.php",
+						"app\\Providers\\AppServiceProvider.php"
+					],
+					[
+						"product",
+						"app\\Http\\Controllers\\ProductController.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 132.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1032.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"vm",
+						"vm1"
+					],
+					[
+						"show",
+						"showParagraph"
+					],
+					[
+						"mo",
+						"monsterAttacks"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"ba",
+						"backgroundColor"
+					],
+					[
+						"in",
+						"inline-block\tdisplay"
+					],
+					[
+						"User",
+						"User_model"
+					],
+					[
+						"for",
+						"for\tfor …"
+					],
+					[
+						"Product",
+						"ProductResource"
+					],
+					[
+						"func",
+						"override_function"
+					],
+					[
+						"produ",
+						"product_id"
+					],
+					[
+						"padding",
+						"padding\tproperty"
+					],
+					[
+						"tbl_",
+						"tbl_shipping"
+					],
+					[
+						"pay",
+						"paypal"
+					],
+					[
+						"margin",
+						"margin\tproperty"
+					],
+					[
+						"font",
+						"font-size\tproperty"
+					],
+					[
+						"Requ",
+						"Request"
+					],
+					[
+						"btn",
+						"btn-primary"
+					],
+					[
+						"slider",
+						"slider_title"
+					],
+					[
+						"tbl",
+						"tbl_category"
+					],
+					[
+						"image",
+						"image_url"
+					],
+					[
+						"image_",
+						"image_full_name"
+					],
+					[
+						"upload",
+						"upload_path"
+					],
+					[
+						"h",
+						"href"
+					],
+					[
+						"Re",
+						"Redirect"
+					],
+					[
+						"admin",
+						"admin_name"
+					],
+					[
+						"text",
+						"text-align\tproperty"
+					],
+					[
+						"loc",
+						"location"
+					],
+					[
+						"list",
+						"list-style\tproperty"
+					],
+					[
+						"mar",
+						"margin\tproperty"
+					],
+					[
+						"min-",
+						"min-height\tproperty"
+					],
+					[
+						"session_un",
+						"session_unset"
+					],
+					[
+						"arg",
+						"arg_ary"
+					],
+					[
+						"pro",
+						"property"
+					],
+					[
+						"__",
+						"__set"
+					],
+					[
+						"val",
+						"valueTwo"
+					],
+					[
+						"value",
+						"valueOne"
+					],
+					[
+						"person",
+						"personAge"
+					],
+					[
+						"max",
+						"max_int"
+					],
+					[
+						"set",
+						"setcookie"
+					],
+					[
+						"read",
+						"readfile"
+					],
+					[
+						"date_def",
+						"date_default_timezone_set"
+					],
+					[
+						"filter_",
+						"filter_var"
+					],
+					[
+						"el",
+						"elseif\telseif …"
+					],
+					[
+						"array",
+						"array"
+					],
+					[
+						"arr",
+						"array\t$… = array (…)"
+					],
+					[
+						"str_re",
+						"str_replace"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"paddi",
+						"padding-right"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"min",
+						"min-height"
+					],
+					[
+						"i",
+						"initial"
+					],
+					[
+						"f",
+						"float"
+					],
+					[
+						"count",
+						"count1"
+					],
+					[
+						"mysql_f",
+						"mysql_fetch_assoc"
+					],
+					[
+						"mysql_s",
+						"mysql_select_db"
+					],
+					[
+						"if",
+						"if\tif …"
+					],
+					[
+						"cur",
+						"cursor"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"pa",
+						"placeholder\tAttr"
+					],
+					[
+						"S",
+						"Successfully"
+					],
+					[
+						"p",
+						"php\t<?php … ?>"
+					],
+					[
+						"base",
+						"base64_encode"
+					],
+					[
+						"bind_",
+						"bind_result"
+					],
+					[
+						"exe",
+						"execute"
+					],
+					[
+						"pre",
+						"prepare"
+					],
+					[
+						"ex",
+						"exit"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"file_",
+						"file_get_contents"
+					],
+					[
+						"class",
+						"class\tclass …"
+					],
+					[
+						"met",
+						"method_exists"
+					],
+					[
+						"sta",
+						"static"
+					],
+					[
+						"a",
+						"action\tAttr"
+					],
+					[
+						"fo",
+						"form\tTag"
+					],
+					[
+						"els",
+						"else"
+					],
+					[
+						"_",
+						"_FILES"
+					],
+					[
+						"me",
+						"meta\tTag"
+					],
+					[
+						"function",
+						"create_function"
+					],
+					[
+						"re",
+						"required\tAttr"
+					],
+					[
+						"u",
+						"url()"
+					],
+					[
+						"pad",
+						"padding-bottom"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"find ",
+						"PHPCompanion:Find Use"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"packagecontroll",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"emmet",
+						"Set Syntax: Emmet"
+					],
+					[
+						"Snippet",
+						"Snippet: Comment - Full section comment"
+					],
+					[
+						"Snippet: ",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 512.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+					"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'",
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/H/Start_PHP/htdocs/VueJS/VueMaster",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 6",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 6/simpleVue",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 6/simpleVue/src"
+			],
+			"file_history":
+			[
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 5/05-Using_component.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 5/04-Mounting_templete.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 5/03-Accessing_vue_instance_from_outside.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 5/02-Multiple_vue_instance.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 5/01-Basic_vuejs_instance.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 4 First Project/app.js",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 4 First Project/index.html",
+				"/F/JavaScript/VueJS Complete Guide - Udemy/04 First Course Project - The Monster Slayer/Setup/index.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 3/09-Different_use_v-for.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 3/08-Looping_throw_number.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 3/07-Looping_throw_object.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 3/06-Alternative_v-for.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 3/05-Getting_current_index.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 3/04-Rendering_list_with_v-for.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 3/03-v-show.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 3/01-Conditional_rendering_v-if.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 3/02-Alternative_v-if.html",
+				"/F/JavaScript/VueJS Complete Guide - Udemy/03 Using Conditionals and Rendering Lists/035 v-else-if in Vue.js 2.1.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/19-Dynamic_style_with_css_using_name.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/20-Dynamic_style_without_css_classes.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/18-Dynamic_style_with_css_using_object.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/17-Dynamic_styling_with_css.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/16-Alternative_computed_properties_watching_change.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/15-Reacting_change_with_computed_properties.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/14-Using_two_way_binding.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/13-JavaScript_code_in_templete.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/12-Listining_to_keyboard_events.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/11-Modify_event_with_event_modifiers.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/10-Passing_your_own_arguments_with_events.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/9-Getting_Event_Data_From_Event_object.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/8-Listining_to_Events.html",
+				"/H/Start_PHP/htdocs/Laravel_Project/profile/routes/web.php",
+				"/H/Start_PHP/htdocs/Laravel/profile/app/Http/Controllers/VisitorController.php",
+				"/H/Start_PHP/htdocs/Laravel/profile/resources/views/welcome.blade.php",
+				"/H/Start_PHP/htdocs/Laravel/profile/routes/web.php",
+				"/H/Start_PHP/htdocs/Laravel/profile/index.php",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/7-Output_Row_HTML.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/6-Desable_Re-Rendering_with_v-once.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/5-Understanding_and_Using_Directives.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/4-Binding_to_Attributes.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/3-Access_Data_in_Vue_Instance.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/1-Understanding_VueJs.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/Part 2/2-Syntax_Instance_Work_Togather.html",
+				"/H/Start_PHP/htdocs/VueJS/VueMaster/index.html",
+				"/H/START PHP/htdocs/Laravel/todos/database/migrations/2018_04_04_072759_create_todos_table.php",
+				"/H/START PHP/htdocs/Laravel/eForum/resources/views/discussions/edit.blade.php",
+				"/H/START PHP/htdocs/Laravel/eForum/resources/views/discuss.blade.php",
+				"/H/START PHP/htdocs/Laravel/eForum/.env",
+				"/H/START PHP/htdocs/Laravel/eForum/database/seeds/UsersTableSeeder.php",
+				"/H/START PHP/htdocs/Laravel/eShop/routes/web.php",
+				"/H/START PHP/htdocs/Laravel/eShop/app/Http/Controllers/AdminController.php",
+				"/H/START PHP/htdocs/CI/application/views/user_view.php",
+				"/H/START PHP/htdocs/CI/application/controllers/Users.php",
+				"/H/START PHP/htdocs/CI/application/models/User_model.php",
+				"/H/START PHP/htdocs/exc.php",
+				"/H/START PHP/htdocs/CI/application/config/database.php",
+				"/H/START PHP/htdocs/CI/application/config/autoload.php",
+				"/H/START PHP/htdocs/Sublime Text 3/Data/Packages/User/Emmet.sublime-settings",
+				"/H/START PHP/htdocs/Sublime Text 3/Data/Packages/Emmet/Emmet.sublime-settings",
+				"/H/START PHP/htdocs/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/H/START PHP/htdocs/Sublime Text 3/Data/Packages/Emmet/Default (Windows).sublime-keymap",
+				"/H/START PHP/htdocs/CI/application/views/welcome_message.php",
+				"/H/START PHP/htdocs/CI/application/controllers/Welcome.php",
+				"/H/START PHP/htdocs/CI/application/views/home_view.php",
+				"/H/START PHP/htdocs/CI/application/controllers/Home.php",
+				"/H/START PHP/htdocs/Laravel_Project/phonebook/resources/assets/js/components/Myheader.vue",
+				"/H/START PHP/htdocs/Laravel_Project/phonebook/routes/web.php",
+				"/H/START PHP/htdocs/Laravel_Project/phonebook/resources/assets/js/components/Myfooter.vue",
+				"/H/START PHP/htdocs/Laravel_Project/phonebook/resources/views/phonebook.blade.php",
+				"/H/START PHP/htdocs/Laravel_Project/phonebook/resources/assets/js/bootstrap.js",
+				"/H/START PHP/htdocs/Laravel_Project/phonebook/.gitignore",
+				"/H/START PHP/htdocs/Laravel_Project/phonebook/resources/assets/sass/app.scss",
+				"/H/START PHP/htdocs/Laravel_Project/phonebook/config/app.php",
+				"/C/Users/PAVEL PARVEZ/Desktop/up/ecommerce/.env",
+				"/C/Users/PAVEL PARVEZ/Desktop/up/eForum/.env",
+				"/H/START PHP/htdocs/Laravel/ecommerce/resources/views/layouts/master.blade.php",
+				"/H/START PHP/htdocs/Laravel/ecommerce/app/Http/Kernel.php",
+				"/H/START PHP/htdocs/Laravel/ecommerce/app/Http/Middleware/Admin.php",
+				"/H/START PHP/htdocs/Laravel/ecommerce/app/User.php",
+				"/H/START PHP/htdocs/Laravel/ecommerce/app/Http/Controllers/ProductsController.php",
+				"/H/START PHP/htdocs/Laravel/ecommerce/app/Http/Controllers/HomeController.php",
+				"/H/START PHP/htdocs/Laravel/ecommerce/routes/web.php",
+				"/H/START PHP/htdocs/Laravel/ecommerce/index.php",
+				"/H/START PHP/htdocs/Laravel/eForum/resources/views/layouts/app.blade.php",
+				"/H/START PHP/htdocs/Laravel/eForum/index.php",
+				"/H/START PHP/htdocs/Laravel/eForum/database/migrations/2014_10_12_000000_create_users_table.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/app/Http/Requests/ReviewRequest.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/app/Model/Review.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/app/Http/Resources/Review/ReviewResource.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/app/Http/Controllers/ProductController.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/app/Exceptions/ExceptionTrait.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/app/Exceptions/ProductNotBelongsToUser.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/app/Exceptions/Handler.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/database/seeds/DatabaseSeeder.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/database/migrations/2018_06_05_193911_create_products_table.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/database/factories/ModelProductFactory.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/app/Http/Requests/ProductRequest.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/app/Model/Product.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/vendor/laravel/framework/src/Illuminate/Database/Eloquent/ModelNotFoundException.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/vendor/symfony/http-foundation/Response.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/config/auth.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/app/User.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/routes/api.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/app/Providers/AuthServiceProvider.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/app/Http/Resources/Product/ProductCollection.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/app/Http/Resources/Product/ProductResource.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/database/migrations/2018_06_05_194005_create_reviews_table.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/database/factories/ModelReviewFactory.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/app/Providers/AppServiceProvider.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/app/Http/Controllers/ReviewController.php",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/.env",
+				"/H/START PHP/htdocs/Laravel_Project/eapi/.gitignore",
+				"/H/START PHP/htdocs/Laravel_Project/RESTFULAPI/Homestead.yaml",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/H/START PHP/htdocs/Laravel_Project/todos/gulpfile.js",
+				"/H/START PHP/htdocs/blog_cms/app/Profile.php",
+				"/H/START PHP/htdocs/blog_cms/app/User.php",
+				"/H/START PHP/htdocs/blog_cms/database/seeds/UsersTableSeeder.php",
+				"/H/START PHP/htdocs/blog_cms/database/seeds/SettingsTableSeeder.php",
+				"/H/START PHP/htdocs/blog_cms/database/seeds/DatabaseSeeder.php",
+				"/H/START PHP/htdocs/Laravel_Project/blog_cms/resources/views/layouts/app.blade.php",
+				"/C/Users/PAVEL PARVEZ/Desktop/eShop/.env",
+				"/H/START PHP/htdocs/eShop/app/Http/Controllers/HomeController.php",
+				"/H/START PHP/htdocs/eShop/resources/views/pages/home_content.blade.php",
+				"/H/START PHP/htdocs/eShop/resources/views/layout.blade.php",
+				"/C/Users/PAVEL PARVEZ/Desktop/file.html",
+				"/H/START PHP/htdocs/eShop/bootstrap/app.php"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"');\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": false,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "H:\\Start_PHP\\htdocs\\VueJS\\VueMaster"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 39.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-32000,-32000,-1,-1,995,812,47,1860",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ReviewResource",
+						"app\\Http\\Resources\\Review\\ReviewResource.php"
+					],
+					[
+						"NotFoundHttpException",
+						"vendor\\symfony\\http-kernel\\Exception\\NotFoundHttpException.php"
+					],
+					[
+						"ModelNotFoundException",
+						"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\ModelNotFoundException.php"
+					],
+					[
+						"",
+						"vendor\\symfony\\http-foundation\\Response.php"
+					],
+					[
+						"resp",
+						"vendor\\symfony\\http-foundation\\Response.php"
+					],
+					[
+						"response",
+						"vendor\\symfony\\http-foundation\\Response.php"
+					],
+					[
+						"respos",
+						"vendor\\symfony\\http-foundation\\Response.php"
+					],
+					[
+						"api.php",
+						"routes\\api.php"
+					],
+					[
+						"user",
+						"app\\User.php"
+					],
+					[
+						"auth",
+						"config\\auth.php"
+					],
+					[
+						"review",
+						"app\\Http\\Controllers\\ReviewController.php"
+					],
+					[
+						"AppServiceProvider.php",
+						"app\\Providers\\AppServiceProvider.php"
+					],
+					[
+						"product",
+						"app\\Http\\Controllers\\ProductController.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 169.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 26,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

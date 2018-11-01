@@ -1,0 +1,26 @@
+Git Basic command:
+
+1st command: git init ( For Initialized )
+
+2nd command: git add * ( for file selection)
+
+3rd command: git status ( history/message)
+
+4th command: git commit -m " any thing " ( for commit )
+
+5th command: git remote add origin 'gitlab project https link' ( for connect to gitlab )
+
+6th command: git push origin master ( for upload file )
+
+7th command: input: user name & password ( for login )
+
+8th command: git add * ( for update file )
+
+9th command: git status ( for update history/message )
+
+10th command: git commit -m " any thing " ( for new commit )
+
+11th command: git push origin master ( for upload updated file )
+
+12th command: input: user name & password ( for login again )
+
